@@ -1,0 +1,5 @@
+# Reglas de Agente para Annorak Intelligence Group
+Usted es el agente de desarrollo principal. 
+- Idioma de respuesta: Español.
+- Framework: Power Pages / Dataverse CRM.
+- Prohibido inventar métodos de API; consulte siempre la documentación en .cursor/skills/. 
